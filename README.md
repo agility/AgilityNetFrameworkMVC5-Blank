@@ -1,4 +1,4 @@
-# AgilityNetFrameworkMVC5-Blank
+# Blank Template for ASP.NET MVC 5 and Agility
 This is a blank template for Agility MVC5 .NET Framework sites that is based off the vanilla MVC5 template that Microsoft provides.
 
 # Setup

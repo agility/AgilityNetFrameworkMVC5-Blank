@@ -13,3 +13,5 @@ This is a blank template for Agility MVC5 .NET Framework sites that is based off
 9. Select 'Homepage Template' as <b>Page Template</b>
 10. Enter 'homepage' as <b>Menu Text</b> and click 'Save'
 11. Start the project in Visual Studio
+
+<i>Note: When running the project, if you receive any template errors you can either add the missing templates or remove/update the pages that are using the missing templates. If you chose to remove the templates do not remove the home page just drill down to page's settings and change the selected template</i>

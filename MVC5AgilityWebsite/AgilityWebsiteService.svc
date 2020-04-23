@@ -1,1 +1,1 @@
-<%@ServiceHost Factory="Agility.Web.AgilityWebsiteHostFactory" Service="Agility.Web.AgilityWebsiteService"	%>
+<%@ServiceHost Service="Agility.Web.AgilityWebsiteService"	%>

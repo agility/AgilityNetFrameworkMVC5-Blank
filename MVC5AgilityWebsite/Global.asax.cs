@@ -21,7 +21,7 @@ namespace MVC5AgilityWebsite
             if (string.Compare(custom, "AgilityCacheControl", true) == 0)
             {
                 string s = Data.GetAgilityVaryByCustomString(context);
-                s = string.Format("{0}.{1}", s, context.Request.Url.Host);
+                s = string.Format("{0}.{1}", s, context.Request.Url.PathAndQuery);
                 return s;
 
             }
